@@ -1,6 +1,12 @@
 # 👋 Olá!
 
-Trabalho com sistemas embarcados, escrevendo código próximo do hardware. Gosto de entender como as coisas funcionam por dentro — do sinal analógico ao protocolo digital. Sempre busco soluções simples, eficientes e confiáveis.
+- 🎓 Formação em Física Computacional  
+- 🔧 Atuação em desenvolvimento de sistemas embarcados  
+- 🕒 Foco em sistemas de tempo real (RTOS)  
+- 🔌 Interesse em eletrônica aplicada e integração com software  
+- 💻 Programação de baixo nível, principalmente em C  
+- 🔍 Interesse na interseção entre hardware e software  
+- ⚙️ Valorizo soluções robustas, eficientes e bem estruturadas  
 
 ---
 
@@ -16,8 +22,8 @@ Trabalho com sistemas embarcados, escrevendo código próximo do hardware. Gosto
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBichara1&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasBichara1&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
 
 ---
 
