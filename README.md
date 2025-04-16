@@ -17,7 +17,7 @@ Trabalho com sistemas embarcados, escrevendo código próximo do hardware. Gosto
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBichara1&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasBicharaO&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasBichara1&show_icons=true&theme=default)
 
 ---
 
