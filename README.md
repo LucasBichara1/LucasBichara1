@@ -31,8 +31,8 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBichara1&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasBichara1&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats-git-master-lucasbichara1s-projects.vercel.app/api/top-langs/?username=LucasBichara1&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats-git-master-lucasbichara1s-projects.vercel.app/api?username=LucasBichara1&show_icons=true&theme=default)
 
 ---
 
