@@ -2,9 +2,7 @@
 
 - 🎓 Formação em Física Computacional  
 - 🔧 Atuação em desenvolvimento de sistemas embarcados  
-- 🕒 Foco em sistemas de tempo real (RTOS)  
 - 🔌 Interesse em eletrônica 
-- 💻 Programação de baixo nível, principalmente em C  
 - 🔍 Interesse em hardware e software 
 
 ---
